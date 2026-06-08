@@ -1,0 +1,29 @@
+# vcs / editors
+.git
+.gitignore
+.vscode
+.idea
+
+# bytecode / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache
+.cache
+.dist-info
+.eggs
+*.egg-info
+
+# venvs
+.venv
+venv
+
+# build artifacts
+build/
+dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
